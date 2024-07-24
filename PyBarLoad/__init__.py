@@ -41,6 +41,83 @@ class PyBar:
         else:
             print(end_text)
 
+            def StarBar(finish:int = None, end_text:str = None):
+        finish = finish
+        for i in range(finish):
+            i += 1
+            print(f"\r{'*' * i}{'-' * (finish - i)}\t||➡ {i}% ||\t", end='')
+            time.sleep(1)
+        if not end_text:
+            print("Finished bar !")
+        else:
+            print(end_text)
+
+            def StarBar(finish:int = None, end_text:str = None):
+        finish = finish
+        for i in range(finish):
+            i += 1
+            print(f"\r{'*' * i}{'-' * (finish - i)}\t||➡ {i}% ||\t", end='')
+            time.sleep(1)
+        if not end_text:
+            print("Finished bar !")
+        else:
+            print(end_text)
+
+            def StarBar(finish:int = None, end_text:str = None):
+        finish = finish
+        for i in range(finish):
+            i += 1
+            print(f"\r{'*' * i}{'-' * (finish - i)}\t||➡ {i}% ||\t", end='')
+            time.sleep(1)
+        if not end_text:
+            print("Finished bar !")
+        else:
+            print(end_text)
+
+            def StarBar(finish:int = None, end_text:str = None):
+        finish = finish
+        for i in range(finish):
+            i += 1
+            print(f"\r{'*' * i}{'-' * (finish - i)}\t||➡ {i}% ||\t", end='')
+            time.sleep(1)
+        if not end_text:
+            print("Finished bar !")
+        else:
+            print(end_text)
+
+            def StarBar(finish:int = None, end_text:str = None):
+        finish = finish
+        for i in range(finish):
+            i += 1
+            print(f"\r{'*' * i}{'-' * (finish - i)}\t||➡ {i}% ||\t", end='')
+            time.sleep(1)
+        if not end_text:
+            print("Finished bar !")
+        else:
+            print(end_text)
+
+            def StarBar(finish:int = None, end_text:str = None):
+        finish = finish
+        for i in range(finish):
+            i += 1
+            print(f"\r{'*' * i}{'-' * (finish - i)}\t||➡ {i}% ||\t", end='')
+            time.sleep(1)
+        if not end_text:
+            print("Finished bar !")
+        else:
+            print(end_text)
+
+            def StarBar(finish:int = None, end_text:str = None):
+        finish = finish
+        for i in range(finish):
+            i += 1
+            print(f"\r{'*' * i}{'-' * (finish - i)}\t||➡ {i}% ||\t", end='')
+            time.sleep(1)
+        if not end_text:
+            print("Finished bar !")
+        else:
+            print(end_text)
+
     def PersonalizeBar(finish:int = None, symbol:str = None, end_text:str = None):
         finish = finish
         symbol = symbol
