@@ -1,7 +1,7 @@
 """
 By Prasax And Katsu'hi !
 
-Our github : https://www.github.com/Prasax-Dev
+Our github  : https://www.github.com/Prasax-Dev
             https://www.github.com/Kijusu-Dev
 """
 
